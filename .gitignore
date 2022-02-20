@@ -1,0 +1,12 @@
+a.out
+.*.swp
+*.hi
+*.s
+*.o
+*.class
+*.cmi
+*.cmo
+out
+mergesort.glob
+mergesort.vo
+.mergesort.aux
